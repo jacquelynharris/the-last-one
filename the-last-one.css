@@ -2,6 +2,8 @@ body {
     font-family: "PT Serif";
     font-size: 18px;
     line-height: 26px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .article-hed {
